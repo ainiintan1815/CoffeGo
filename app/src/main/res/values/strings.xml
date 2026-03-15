@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="search_anything">Cari apa saja...</string>
+    <string name="good_morning">Hai Selamat Datang</string>
+    <string name="get_started">Mulai</string>
+    <string name="find_the_best_coffee_nfor_you">Find the best coffee\nfor you</string>
+    <string name="started">Mulai</string>
+    <string name="grab_your_first_coffee_in_this_morning">Ayo pesan kopi pertama kamu dihari ini</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">Lihat semua</string>
+    <string name="available_offers">Penawaran yang tersedia</string>
+    <string name="cart">Cart</string>
+    <string name="edit_profile" />
+    <string name="user_email" />
+    <string name="user_name" />
+</resources>
